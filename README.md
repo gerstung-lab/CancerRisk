@@ -34,15 +34,15 @@ and may help to enable cancer screening in younger age groups.
 
 ## **Getting started**
 
-This directory contains the result and scripts accompanying the paper:
+This directory contains the scripts accompanying the paper:
 
 *Multi-cancer risk stratification based on national health data: A retrospective modelling and validation study*
 
 The analysis is split by the two main cohorts: [Denmark](./main/Denmark) and [UK Biobank](./main/UKB).
-The used scripts and notebooks can be found in the scr.tar.gz files.
-The figures and some of the underlying data can be found in out.tar.gz files.
+The used scripts can be found in the under the above mentioned folders.
 
-An example on how to use the model to predict cancer risk see:
+The model parameters can be downloaded from [drive](https://drive.google.com/file/d/1PWsmL8f9w0hGZp9rbg_SQar82TTXVvvi/view?usp=sharing)
+An example on how to use the model to predict cancer risk see: (the download of the model file may need changing.):
 [Example](./example/cancerrisk.ipynb) - [Colab](https://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharinghttps://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharing)
 
 ## Additional information
