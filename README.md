@@ -38,8 +38,9 @@ This directory contains the scripts accompanying the paper:
 
 *Multi-cancer risk stratification based on national health data: A retrospective modelling and validation study*
 
-The analysis is split by the two main cohorts: [Denmark](./main/Denmark) and [UK Biobank](./main/UKB).
-The used scripts can be found in the under the above mentioned folders.
+The analysis is split by the two main cohorts: [Denmark](./main/Denmark) and [UK Biobank](./main/UKB).  
+
+The used scripts can be found in the above mentioned folders.
 
 The model parameters can be downloaded from [drive](https://drive.google.com/file/d/1PWsmL8f9w0hGZp9rbg_SQar82TTXVvvi/view?usp=sharing)
 An example on how to use the model to predict cancer risk see: (the download of the model file may need changing.):
@@ -50,7 +51,7 @@ An example on how to use the model to predict cancer risk see: (the download of 
 ### **Citing**
 @article{jung2022multi,
   title={Multi-cancer risk stratification based on national health data: A retrospective modelling and validation study},
-  author={Jung, Alexander Wolfgang and Holm, Peter Christoffer and Gaurav, Kumar and Hjaltelin, Jessica Xin and Placido, Davide and Mortensen, Laust Hvas and Birney, Ewan and Brunak, Soren and Gerstung, Moritz},
+  author={Jung, Alexander Wolfgang and Holm, Peter Christoffer and Gaurav, Kumar and Hjaltelin, Jessica Xin and Placido, Davide and Mortensen, Laust Hvas and Birney, Ewan and Brunak, Søren and Gerstung, Moritz},
   journal={medRxiv},
   year={2022},
   publisher={Cold Spring Harbor Laboratory Press}
