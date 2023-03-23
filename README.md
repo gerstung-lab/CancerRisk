@@ -6,7 +6,7 @@
 [medRxiv](https://www.medrxiv.org/content/10.1101/2022.10.12.22280908v1)
 
 ## **Website**
-[Explore Results](https://alexwjung.github.io/CancerRisk/webpage/)
+[Explore Results](https://alexwjung.github.io/CancerRisk/webpage/index.html)
 
 ## **Description**
 Health care is experiencing a drive towards digitisation and many countries are
