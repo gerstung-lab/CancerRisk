@@ -44,7 +44,7 @@ The used scripts can be found in the above mentioned folders.
 
 The model parameters can be downloaded from [drive](https://drive.google.com/file/d/1PWsmL8f9w0hGZp9rbg_SQar82TTXVvvi/view?usp=sharing)
 An example on how to use the model to predict cancer risk see: (the download of the model file may need changing.):
-[Example](./example/cancerrisk.ipynb) - [Colab](https://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharinghttps://colab.research.google.com/drive/1q75iFgjojjx1kk8r-MwSLKs9GXzodL4Z?usp=sharing)
+[Example](./example/cancerrisk.ipynb)
 
 ## Additional information
 
